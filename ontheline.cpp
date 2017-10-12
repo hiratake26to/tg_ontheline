@@ -1,7 +1,7 @@
 /**
  * license is free
  * \file    ontheline.cpp
- * \author  tfd36521@st.yamagata-u.ac.jp
+ * \author  hiratake26to@gmail.com
  * \date    2017-10-11 JST
  */
 #include <iostream>
